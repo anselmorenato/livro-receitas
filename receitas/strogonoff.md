@@ -1,4 +1,4 @@
-# Strogonoff de Frango :chic
+# Strogonoff de Frango :chicken:
 
 **Negrito**
 __italico__
